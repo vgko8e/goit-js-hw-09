@@ -30,6 +30,3 @@ function onClickStartBtn() {
 function onClickStopBtn() {
     clearInterval(intervalId);    
 };
-
-
-
